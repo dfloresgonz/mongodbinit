@@ -1,6 +1,6 @@
 ### Requerimientos
 
-1. Docker desktop
+1. Docker desktop (https://www.docker.com/products/docker-desktop/)
 2. Mongodb compass (UI) para visualizar data
 
 ### Pasos para instalar
