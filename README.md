@@ -10,6 +10,18 @@
 docker-compose up -d
 ```
 
+### Comandos
+
+```bash
+python -m venv myvenv
+source myvenv/bin/activate  # On Windows: venv\Scripts\activate
+
+pip freeze > requirements.txt
+
+pip install -r requirements.txt
+
+```
+
 ### Tutorial video
 
 https://www.loom.com/share/9af2cbace77d48689de198266cc079ec
